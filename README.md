@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Teal!
+
+Yes, like the color! I a software engineer based in Washington, DC. 
 
 <!--
-**Teal-Ewer/Teal-Ewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<a target="_blank" href="https://elated-carson-819d6b.netlify.app/">🖥  My Portfolio</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+![Teal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teal-Ewer&hide=stars,issues&theme=city_lights&show_icons=true)
+<!-- ![Teal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teal-Ewer) -->
