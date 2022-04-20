@@ -1,6 +1,8 @@
+<img src="https://i.imgur.com/L3FypED.jpg" style="width: 600px;" />
+
 ### Hi, I'm Teal!
 
-Yes, like the color! I a software engineer based in Washington, DC. 
+Yes, like the color! I'm a hammock camping aficionado and software engineer based in Washington, DC. 
 
 <!--
 <a target="_blank" href="https://elated-carson-819d6b.netlify.app/">🖥  My Portfolio</a>
