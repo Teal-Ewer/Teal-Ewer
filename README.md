@@ -4,7 +4,7 @@
 
 I'm a full stack MERN developer with a background in classical trumpet performance and served as a musician in the Marine Corps.
 
-I love building
+I love building tiny apps using Alpine.js and Tailwind CSS.
 
 You can view some of my projects or get in touch with me by vistiing <a target="_blank" href="https://tealewer.com">my portfolio 🖥</a>
 
