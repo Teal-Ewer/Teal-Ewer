@@ -1,8 +1,16 @@
 <img src="https://i.imgur.com/L3FypED.jpg" style="width: 600px;" />
 
-### Hi, I'm Teal!
+### Hi, I'm Teal - a hammock camping aficionado and software engineer based in Washington, DC.
 
-Yes, like the color! I'm a hammock camping aficionado and software engineer based in Washington, DC. 
+I'm a full stack MERN developer with a background in classical trumpet performance and served as a musician in the Marine Corps.
+
+I love building
+
+You can view some of my projects or get in touch with me by vistiing <a target="_blank" href="https://tealewer.com">my portfolio 🖥</a>
+
+- 🔭 I’m currently working on a pomodoro timer that gets you on your feet between sprints.
+- 🌱 I’m currently learning Go and Next.js
+- ⚡ Fun fact: I recorded Taps for the 2019 Memorial Day Google Doodle.
 
 <!--
 <a target="_blank" href="https://elated-carson-819d6b.netlify.app/">🖥  My Portfolio</a>
