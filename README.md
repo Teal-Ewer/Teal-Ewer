@@ -9,7 +9,7 @@ In my free time I love backpacking and building tiny apps using Alpine.js and Ta
 You can view some of my projects or get in touch with me by vistiing <a target="_blank" href="https://tealewer.com">my portfolio 🖥</a>
 
 - 🔭 I’m currently working on a pomodoro timer that gets you on your feet between sprints.
-- 🌱 I’m currently learning Go and Next.js
+- 🌱 I’m currently learning Nuxt.js
 - ⚡ Fun fact: I recorded Taps for the 2019 Memorial Day Google Doodle.
 
 <!--
@@ -23,5 +23,5 @@ You can view some of my projects or get in touch with me by vistiing <a target="
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
-![Teal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teal-Ewer&hide=stars,issues&theme=city_lights&show_icons=true)
+<!-- ![Teal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teal-Ewer&hide=stars,issues&theme=city_lights&show_icons=true) -->
 <!-- ![Teal's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teal-Ewer) -->
